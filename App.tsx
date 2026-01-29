@@ -345,7 +345,7 @@ const Hero: React.FC = () => {
             <div className="absolute inset-0 bg-gradient-to-t from-black via-transparent to-transparent opacity-30"></div>
           </div>
           <div className="hidden lg:block absolute -bottom-10 -left-10 z-20 w-56 h-56 rounded-2xl overflow-hidden border-4 border-[#B8860B] shadow-xl transform -rotate-6">
-            <img src="https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad7.jpeg" alt="Father Moment" className="w-full h-full object-cover" />
+            <img src="https://kelechieze.wordpress.com/wp-content/uploads/2026/01/daday1.jpeg" alt="Father Moment" className="w-full h-full object-cover" />
           </div>
           <div className="hidden lg:block absolute -top-6 -right-6 z-20 w-40 h-40 rounded-full overflow-hidden border-4 border-[#B8860B] shadow-xl">
             <img src="https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad2.jpeg" alt="Family" className="w-full h-full object-cover" />
@@ -445,19 +445,19 @@ const ImageCarousel: React.FC = () => {
   const row1Images = [
     "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad2.jpeg",
     "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad1.jpeg",
-    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad4.jpeg",
+    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/daday4.jpeg",
     "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad5.jpeg",
-    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad8.jpeg",
+    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/daday5.jpeg",
     "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad8.jpeg",
   ];
   
   const row2Images = [
-    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad6.jpeg",
-    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad8.jpeg",
-    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad7.jpeg",
+    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dady6.jpeg",
+    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/daday2.jpeg",
+    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/daday4.jpeg",
     "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad3.jpeg",
     "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad2.jpeg",
-    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/dad4.jpeg",
+    "https://kelechieze.wordpress.com/wp-content/uploads/2026/01/daday3.jpeg",
   ];
 
   return (
